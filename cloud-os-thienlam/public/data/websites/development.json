@@ -3,64 +3,184 @@
     "id": "github",
     "name": "GitHub",
     "url": "https://github.com",
-    "description": "Code repository hosting",
+    "description": "Nền tảng lưu trữ mã nguồn và quản lý dự án hàng đầu thế giới.",
     "icon": "🐙",
-    "color": "bg-gray-800"
+    "color": "bg-gray-900"
   },
   {
     "id": "stackoverflow",
     "name": "Stack Overflow",
     "url": "https://stackoverflow.com",
-    "description": "Programming Q&A community",
-    "icon": "❓",
-    "color": "bg-orange-600"
-  },
-  {
-    "id": "vercel",
-    "name": "Vercel",
-    "url": "https://vercel.com",
-    "description": "Deploy web projects",
-    "icon": "▲",
-    "color": "bg-black"
-  },
-  {
-    "id": "netlify",
-    "name": "Netlify",
-    "url": "https://netlify.com",
-    "description": "Build and deploy websites",
-    "icon": "🌐",
-    "color": "bg-teal-500"
-  },
-  {
-    "id": "codesandbox",
-    "name": "CodeSandbox",
-    "url": "https://codesandbox.io",
-    "description": "Online code editor",
-    "icon": "📦",
-    "color": "bg-blue-500"
-  },
-  {
-    "id": "codepen",
-    "name": "CodePen",
-    "url": "https://codepen.io",
-    "description": "Front-end code playground",
-    "icon": "✏️",
-    "color": "bg-black"
+    "description": "Cộng đồng hỏi đáp lớn nhất dành cho lập trình viên.",
+    "icon": "💬",
+    "color": "bg-orange-500"
   },
   {
     "id": "figma",
     "name": "Figma",
     "url": "https://figma.com",
-    "description": "Design and prototyping",
+    "description": "Công cụ thiết kế giao diện (UI/UX) cộng tác trực tuyến.",
     "icon": "🎨",
-    "color": "bg-purple-600"
+    "color": "bg-purple-500"
   },
   {
-    "id": "npm",
-    "name": "npm",
-    "url": "https://npmjs.com",
-    "description": "Package registry for Node.js",
-    "icon": "📦",
+    "id": "notion",
+    "name": "Notion",
+    "url": "https://notion.so",
+    "description": "Không gian làm việc tất cả trong một cho ghi chú và dự án.",
+    "icon": "📓",
+    "color": "bg-gray-700"
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "url": "https://medium.com",
+    "description": "Nền tảng blog chia sẻ kiến thức chuyên sâu.",
+    "icon": "✍️",
+    "color": "bg-black"
+  },
+  {
+    "id": "producthunt",
+    "name": "Product Hunt",
+    "url": "https://producthunt.com",
+    "description": "Nơi khám phá các sản phẩm công nghệ mới mỗi ngày.",
+    "icon": "😸",
+    "color": "bg-orange-600"
+  },
+   {
+    "id": "nextjs-docs",
+    "name": "Next.js Docs",
+    "url": "https://nextjs.org/docs",
+    "description": "Tài liệu chính thức cho React Framework dành cho Production.",
+    "icon": "▲",
+    "color": "bg-black"
+  },
+  {
+    "id": "react-docs",
+    "name": "React Docs",
+    "url": "https://react.dev",
+    "description": "Thư viện JavaScript để xây dựng giao diện người dùng.",
+    "icon": "⚛️",
+    "color": "bg-sky-500"
+  },
+  {
+    "id": "github-blog",
+    "name": "GitHub Blog",
+    "url": "https://github.blog",
+    "description": "Cập nhật những tính năng mới nhất từ GitHub và cộng đồng mã nguồn mở.",
+    "icon": "🐙",
+    "color": "bg-gray-800"
+  },
+  {
+    "id": "tailwind-docs",
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com/docs",
+    "description": "Utility-first CSS framework để xây dựng giao diện nhanh chóng.",
+    "icon": "🌊",
+    "color": "bg-cyan-400"
+  },
+  {
+    "id": "dev-to",
+    "name": "Dev.to",
+    "url": "https://dev.to",
+    "description": "Mạng xã hội chia sẻ bài viết kỹ thuật từ các lập trình viên.",
+    "icon": "👩‍💻",
+    "color": "bg-zinc-900"
+  },
+  {
+    "id": "mdn-web-docs",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "description": "Từ điển bách khoa về HTML, CSS và JavaScript của Mozilla.",
+    "icon": "🦊",
+    "color": "bg-blue-600"
+  },
+  {
+    "id": "vercel-blog",
+    "name": "Vercel Blog",
+    "url": "https://vercel.com/blog",
+    "description": "Tin tức về Web Performance, Edge Computing và hệ sinh thái Next.js.",
+    "icon": "📐",
+    "color": "bg-zinc-800"
+  },
+  {
+    "id": "web-dev",
+    "name": "web.dev",
+    "url": "https://web.dev",
+    "description": "Các hướng dẫn từ Google về tối ưu hóa hiệu suất và trải nghiệm web.",
+    "icon": "⚡",
+    "color": "bg-blue-500"
+  },
+  {
+    "id": "freecodecamp",
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/news",
+    "description": "Kho bài viết hướng dẫn lập trình chuyên sâu hoàn toàn miễn phí.",
+    "icon": "🔥",
+    "color": "bg-green-900"
+  },
+  {
+    "id": "typescript-docs",
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/docs",
+    "description": "Tài liệu về siêu ngôn ngữ JavaScript giúp quản lý kiểu dữ liệu chặt chẽ.",
+    "icon": "🔷",
+    "color": "bg-blue-600"
+  },
+  {
+    "id": "nodejs-docs",
+    "name": "Node.js",
+    "url": "https://nodejs.org/docs",
+    "description": "Tài liệu chính thức cho môi trường thực thi JavaScript phía server.",
+    "icon": "🟢",
+    "color": "bg-green-600"
+  },
+  {
+    "id": "express-docs",
+    "name": "Express.js",
+    "url": "https://expressjs.com",
+    "description": "Framework web tối giản và linh hoạt cho Node.js.",
+    "icon": "🚂",
+    "color": "bg-zinc-500"
+  },
+  {
+    "id": "nestjs-docs",
+    "name": "NestJS",
+    "url": "https://docs.nestjs.com",
+    "description": "Framework Node.js tiến bộ để xây dựng các ứng dụng phía server hiệu quả và dễ mở rộng.",
+    "icon": "🦁",
     "color": "bg-red-600"
+  },
+  {
+    "id": "aws-docs",
+    "name": "AWS Documentation",
+    "url": "https://docs.aws.amazon.com",
+    "description": "Tài liệu hướng dẫn chi tiết cho các dịch vụ điện toán đám mây của Amazon.",
+    "icon": "☁️",
+    "color": "bg-orange-400"
+  },
+  {
+    "id": "docker-docs",
+    "name": "Docker",
+    "url": "https://docs.docker.com",
+    "description": "Nền tảng giúp đóng gói, triển khai và chạy ứng dụng trong các container.",
+    "icon": "🐳",
+    "color": "bg-blue-400"
+  },
+  {
+    "id": "mongodb-docs",
+    "name": "MongoDB Docs",
+    "url": "https://www.mongodb.com/docs",
+    "description": "Tài liệu cho cơ sở dữ liệu NoSQL dựa trên tài liệu phổ biến nhất.",
+    "icon": "🍃",
+    "color": "bg-green-500"
+  },
+  {
+    "id": "postgresql-docs",
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org/docs",
+    "description": "Tài liệu cho hệ quản trị cơ sở dữ liệu quan hệ mã nguồn mở tiên tiến nhất thế giới.",
+    "icon": "🐘",
+    "color": "bg-blue-800"
   }
 ]
