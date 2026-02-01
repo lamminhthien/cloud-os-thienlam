@@ -123,3 +123,18 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .backdrop-blur-xs {
+    backdrop-filter: blur(2px);
+  }
+  .backdrop-blur-3xl {
+    backdrop-filter: blur(64px);
+  }
+  .glass {
+    @apply bg-white/70 dark:bg-zinc-900/70 backdrop-blur-xl border border-white/20 dark:border-zinc-700/50;
+  }
+  .glass-hover {
+    @apply hover:bg-white/80 dark:hover:bg-zinc-900/80 hover:border-white/30 dark:hover:border-zinc-600/50 transition-all duration-300;
+  }
+}

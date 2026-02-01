@@ -49,12 +49,6 @@ export function useCategoryWebsites(category: string) {
 
   useEffect(() => {
     const fetchCategoryWebsites = async () => {
-      if (category === 'all') {
-        setWebsites([])
-        setLoading(false)
-        return
-      }
-
       try {
         setLoading(true)
         const categoryInfo = CATEGORY_INFO[category as keyof typeof CATEGORY_INFO]
@@ -82,8 +76,19 @@ export function useFilteredWebsites(
   websites: Website[],
   category: string
 ): Website[] {
-  if (category === 'all') {
-    return allWebsites
-  }
   return websites
+}
+
+export function usePaginatedWebsites(websites: Website[], currentPage: number, itemsPerPage: number = 12) {
+  const paginatedWebsites = websites.slice(
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage
+  )
+
+  const totalPages = Math.ceil(websites.length / itemsPerPage)
+
+  return {
+    websites: paginatedWebsites,
+    totalPages
+  }
 }

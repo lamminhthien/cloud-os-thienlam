@@ -1,50 +1,65 @@
 [
-  {
-    "id": "youtube",
-    "name": "YouTube",
-    "url": "https://youtube.com",
-    "description": "Video sharing platform",
-    "icon": "▶️",
-    "color": "bg-red-600"
-  },
-  {
-    "id": "netflix",
-    "name": "Netflix",
-    "url": "https://netflix.com",
-    "description": "Streaming movies and TV shows",
-    "icon": "🎬",
-    "color": "bg-red-700"
-  },
-  {
-    "id": "spotify",
-    "name": "Spotify",
-    "url": "https://spotify.com",
-    "description": "Music streaming service",
-    "icon": "🎵",
-    "color": "bg-green-600"
-  },
-  {
-    "id": "twitch",
-    "name": "Twitch",
-    "url": "https://twitch.tv",
-    "description": "Live streaming platform",
-    "icon": "📺",
-    "color": "bg-purple-600"
-  },
-  {
-    "id": "steam",
-    "name": "Steam",
-    "url": "https://store.steampowered.com",
-    "description": "PC gaming platform",
-    "icon": "🎮",
-    "color": "bg-blue-700"
-  },
-  {
-    "id": "medium",
-    "name": "Medium",
-    "url": "https://medium.com",
-    "description": "Read and write articles",
-    "icon": "📰",
-    "color": "bg-green-600"
-  }
+{
+"id": "vieon",
+"name": "VieON",
+"url": "https://vieon.vn",
+"description": "Nền tảng xem phim, show truyền hình bản quyền như Rap Việt, 2 Ngày 1 Đêm.",
+"icon": "📺",
+"thumbnail": "https://play-lh.googleusercontent.com/I6S-k8Z7iH3mPzC9C7vO-u_Pz_Q6n6R8S9k-2k0m",
+"color": "bg-green-500"
+},
+{
+"id": "mixigaming",
+"name": "MixiGaming",
+"url": "https://www.youtube.com/%40MixiGamingOfficial",
+"description": "Kênh YouTube của streamer Độ Mixi - cộng đồng Bộ tộc MixiGaming.",
+"icon": "🎮",
+"thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_n0mG6g3X5f",
+"color": "bg-zinc-900"
+},
+{
+"id": "nettruyen",
+"name": "NetTruyen",
+"url": "https://www.nettruyenup.com",
+"description": "Cổng đọc truyện tranh (Manga/Manhua/Manhwa) phổ biến nhất tại Việt Nam.",
+"icon": "📖",
+"thumbnail": "https://st.nettruyenup.com/data/logos/logo-nettruyen.png",
+"color": "bg-orange-500"
+},
+{
+"id": "cuoi-chut-choi",
+"name": "Cười Chút Chơi",
+"url": "https://www.facebook.com/cuoichutchoi",
+"description": "Cộng đồng chia sẻ video hài hước và meme giải trí hàng ngày.",
+"icon": "🤣",
+"thumbnail": "",
+"color": "bg-yellow-500"
+},
+{
+"id": "pops-vietnam",
+"name": "POPS Vietnam",
+"url": "https://pops.vn",
+"description": "Ứng dụng giải trí với kho truyện tranh, hoạt hình và nhạc trẻ em đồ sộ.",
+"icon": "🎬",
+"thumbnail": "https://cdn.popsww.com/popsapp/assets/images/favicon.ico",
+"color": "bg-red-600"
+},
+{
+"id": "schannel",
+"name": "Schannel",
+"url": "https://www.youtube.com/%40SchannelVN",
+"description": "Kênh thông tin giải trí, công nghệ và đời sống của giới trẻ Việt.",
+"icon": "📱",
+"thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_m6I-Schannel",
+"color": "bg-red-500"
+},
+{
+"id": "beattvn",
+"name": "BEATVN",
+"url": "https://www.facebook.com/beatvn.network",
+"description": "Mạng xã hội tin tức giải trí và xu hướng nóng hổi tại Việt Nam.",
+"icon": "🔥",
+"thumbnail": "",
+"color": "bg-blue-800"
+}
 ]
