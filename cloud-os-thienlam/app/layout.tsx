@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LaunchHub",
+  title: "Website Directory",
   description: "Your personal collection of essential websites",
 };
 

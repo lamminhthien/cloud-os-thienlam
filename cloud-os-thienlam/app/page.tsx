@@ -36,7 +36,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-12 max-w-7xl relative z-10">
         <div className="text-center mb-12">
           <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 bg-clip-text text-transparent drop-shadow-sm">
-            LaunchHub
+            Website Directory
           </h1>
           <p className="text-lg text-zinc-700/80 dark:text-zinc-300/80 max-w-2xl mx-auto backdrop-blur-sm">
             Your personal collection of essential websites. Click any tile to launch instantly.

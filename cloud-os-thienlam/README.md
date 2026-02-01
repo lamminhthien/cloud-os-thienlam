@@ -1,6 +1,6 @@
-# LaunchHub
+# Website Directory
 
-LaunchHub is your personal collection of essential websites. Click any tile to launch instantly.
+Website Directory is your personal collection of essential websites. Click any tile to launch instantly.
 
 ## Features
 

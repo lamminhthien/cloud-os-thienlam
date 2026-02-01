@@ -11,7 +11,7 @@
 {
 "id": "mixigaming",
 "name": "MixiGaming",
-"url": "https://www.youtube.com/%40MixiGamingOfficial",
+"url": "https://m.youtube.com/%40MixiGamingOfficial",
 "description": "Kênh YouTube của streamer Độ Mixi - cộng đồng Bộ tộc MixiGaming.",
 "icon": "🎮",
 "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_n0mG6g3X5f",
@@ -47,7 +47,7 @@
 {
 "id": "schannel",
 "name": "Schannel",
-"url": "https://www.youtube.com/%40SchannelVN",
+"url": "https://m.youtube.com/%40SchannelVN",
 "description": "Kênh thông tin giải trí, công nghệ và đời sống của giới trẻ Việt.",
 "icon": "📱",
 "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_m6I-Schannel",
@@ -65,7 +65,7 @@
 {
 "id": "vie-channel-htv2",
 "name": "Vie Channel - HTV2",
-"url": "https://www.youtube.com/@VieChannelHTV2",
+"url": "https://m.youtube.com/@VieChannelHTV2",
 "description": "Nơi phát sóng các 'siêu show' như Rap Việt, Anh Trai Say Hi, Người Ấy Là Ai và Ca Sĩ Mặt Nạ.",
 "icon": "📺",
 "thumbnail": "",
@@ -74,7 +74,7 @@
 {
 "id": "2ngay-1dem",
 "name": "2 Ngày 1 Đêm Vietnam",
-"url": "https://www.youtube.com/@2ngay1dem",
+"url": "https://m.youtube.com/@2ngay1dem",
 "description": "Kênh chính thức của chương trình thực tế về du lịch và trải nghiệm cực hot.",
 "icon": "🏕️",
 "thumbnail": "",
@@ -83,7 +83,7 @@
 {
 "id": "yeah1-show",
 "name": "YeaH1 Show",
-"url": "https://www.youtube.com/@yeah1show",
+"url": "https://m.youtube.com/@yeah1show",
 "description": "Đơn vị sở hữu bản quyền Chị Đẹp Đạp Gió Rẽ Sóng, Anh Trai Vượt Ngàn Chông Gai và Tân Binh Toàn Năng.",
 "icon": "🎭",
 "thumbnail": "",
@@ -92,7 +92,7 @@
 {
 "id": "sao-nhap-ngu",
 "name": "Sao Nhập Ngũ - Viettel Media",
-"url": "https://www.youtube.com/@SaonhapnguViettelMedia",
+"url": "https://m.youtube.com/@SaonhapnguViettelMedia",
 "description": "Kênh thực tế về đời sống quân ngũ của các nghệ sĩ.",
 "icon": "🎖️",
 "thumbnail": "",
@@ -101,7 +101,7 @@
 {
 "id": "mcv-media",
 "name": "MCV Media",
-"url": "https://www.youtube.com/@MCVMedia",
+"url": "https://m.youtube.com/@MCVMedia",
 "description": "Chuyên các chương trình hẹn hò và đời sống như Bạn Muốn Hẹn Hò, Vợ Chồng Son, Gõ Cửa Thăm Nhà.",
 "icon": "💕",
 "thumbnail": "",
@@ -110,7 +110,7 @@
 {
 "id": "viva-network",
 "name": "VIVA Network",
-"url": "https://www.youtube.com/@VIVANetwork",
+"url": "https://m.youtube.com/@VIVANetwork",
 "description": "Kênh của các chương trình Đảo Thiên Đường, Vietnam Idol và King of Rap.",
 "icon": "🎪",
 "thumbnail": "",
@@ -119,7 +119,7 @@
 {
 "id": "dien-quan-comedy",
 "name": "DIEN QUAN Comedy/Hài",
-"url": "https://www.youtube.com/@dienquancomedy",
+"url": "https://m.youtube.com/@dienquancomedy",
 "description": "Nơi xem lại Thách Thức Danh Hài và các nội dung hài kịch.",
 "icon": "😂",
 "thumbnail": "",
@@ -128,7 +128,7 @@
 {
 "id": "son-tung-mtp",
 "name": "Sơn Tùng M-TP Official",
-"url": "https://www.youtube.com/@Sontungmtp",
+"url": "https://m.youtube.com/@Sontungmtp",
 "description": "Kênh YouTube chính thức của Sơn Tùng M-TP.",
 "icon": "🎤",
 "thumbnail": "",
@@ -137,7 +137,7 @@
 {
 "id": "den-vau",
 "name": "Đen Vâu Official",
-"url": "https://www.youtube.com/@DenVau1305",
+"url": "https://m.youtube.com/@DenVau1305",
 "description": "Kênh YouTube chính thức của rapper Đen Vâu.",
 "icon": "🎤",
 "thumbnail": "",
@@ -146,7 +146,7 @@
 {
 "id": "tran-thanh",
 "name": "Trấn Thành (TRẤN THÀNH TOWN)",
-"url": "https://www.youtube.com/@TRANTHANHTOWN",
+"url": "https://m.youtube.com/@TRANTHANHTOWN",
 "description": "Kênh YouTube chính thức của MC Trấn Thành.",
 "icon": "🎤",
 "thumbnail": "",
@@ -155,7 +155,7 @@
 {
 "id": "my-tam",
 "name": "Mỹ Tâm",
-"url": "https://www.youtube.com/@mytam",
+"url": "https://m.youtube.com/@mytam",
 "description": "Kênh YouTube chính thức của 'Hoa học trò' Mỹ Tâm.",
 "icon": "🎤",
 "thumbnail": "",
@@ -164,7 +164,7 @@
 {
 "id": "hoa-minzy",
 "name": "Hòa Minzy",
-"url": "https://www.youtube.com/@hoaminzy3105",
+"url": "https://m.youtube.com/@hoaminzy3105",
 "description": "Kênh YouTube chính thức của Hòa Minzy.",
 "icon": "🎤",
 "thumbnail": "",
@@ -173,7 +173,7 @@
 {
 "id": "hieuthuhai",
 "name": "HIEUTHUHAI Official",
-"url": "https://www.youtube.com/@HIEUTHUHAIOFFICIAL",
+"url": "https://m.youtube.com/@HIEUTHUHAIOFFICIAL",
 "description": "Kênh YouTube chính thức của rapper HIEUTHUHAI.",
 "icon": "🎤",
 "thumbnail": "",
@@ -182,7 +182,7 @@
 {
 "id": "quang-hung",
 "name": "Quang Hùng MasterD",
-"url": "https://www.youtube.com/@quanghung.masterd",
+"url": "https://m.youtube.com/@quanghung.masterd",
 "description": "Kênh YouTube chính thức của ca sĩ Quang Hùng MasterD.",
 "icon": "🎤",
 "thumbnail": "",
@@ -191,7 +191,7 @@
 {
 "id": "mono",
 "name": "MONO Official",
-"url": "https://www.youtube.com/@mono.hng.official",
+"url": "https://m.youtube.com/@mono.hng.official",
 "description": "Kênh YouTube chính thức của MONO.",
 "icon": "🎤",
 "thumbnail": "",
@@ -200,7 +200,7 @@
 {
 "id": "hoang-thuy-linh",
 "name": "Hoàng Thùy Linh",
-"url": "https://www.youtube.com/@HoangThuyLinh1108",
+"url": "https://m.youtube.com/@HoangThuyLinh1108",
 "description": "Kênh YouTube chính thức của Hoàng Thùy Linh.",
 "icon": "🎤",
 "thumbnail": "",
@@ -209,7 +209,7 @@
 {
 "id": "phan-manh-quynh",
 "name": "Phan Mạnh Quỳnh Official",
-"url": "https://www.youtube.com/@PhanManhQuynhOfficial",
+"url": "https://m.youtube.com/@PhanManhQuynhOfficial",
 "description": "Kênh YouTube chính thức của Phan Mạnh Quỳnh.",
 "icon": "🎤",
 "thumbnail": "",
@@ -218,7 +218,7 @@
 {
 "id": "truc-nhan",
 "name": "Trúc Nhân",
-"url": "https://www.youtube.com/@trucnhanchannel",
+"url": "https://m.youtube.com/@trucnhanchannel",
 "description": "Kênh YouTube chính thức của Trúc Nhân.",
 "icon": "🎤",
 "thumbnail": "",
@@ -227,7 +227,7 @@
 {
 "id": "phuong-my-chi",
 "name": "Phương Mỹ Chi",
-"url": "https://www.youtube.com/@phuongmychiofficial",
+"url": "https://m.youtube.com/@phuongmychiofficial",
 "description": "Kênh YouTube chính thức của 'Chị ong nhỏ' Phương Mỹ Chi.",
 "icon": "🎤",
 "thumbnail": "",
@@ -236,7 +236,7 @@
 {
 "id": "ha-anh-tuan",
 "name": "Hà Anh Tuấn",
-"url": "https://www.youtube.com/@casihaanhtuan",
+"url": "https://m.youtube.com/@casihaanhtuan",
 "description": "Kênh YouTube chính thức của 'Cá sấu' Hà Anh Tuấn.",
 "icon": "🎤",
 "thumbnail": "",
@@ -245,7 +245,7 @@
 {
 "id": "tlinh",
 "name": "tlinh",
-"url": "https://www.youtube.com/@tlinh",
+"url": "https://m.youtube.com/@tlinh",
 "description": "Kênh YouTube chính thức của tlinh.",
 "icon": "🎤",
 "thumbnail": "",
@@ -254,7 +254,7 @@
 {
 "id": "phao",
 "name": "Pháo Northside",
-"url": "https://www.youtube.com/@phaoxinhxinh",
+"url": "https://m.youtube.com/@phaoxinhxinh",
 "description": "Kênh YouTube chính thức của rapper Pháo.",
 "icon": "🎤",
 "thumbnail": "",
