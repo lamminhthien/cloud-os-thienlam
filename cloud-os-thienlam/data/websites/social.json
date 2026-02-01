@@ -1,0 +1,50 @@
+[
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "url": "https://twitter.com",
+    "description": "Social networking platform",
+    "icon": "🐦",
+    "color": "bg-blue-400"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "url": "https://facebook.com",
+    "description": "Connect with friends and family",
+    "icon": "📘",
+    "color": "bg-blue-600"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "url": "https://instagram.com",
+    "description": "Share photos and stories",
+    "icon": "📷",
+    "color": "bg-gradient-to-br from-purple-500 to-pink-500"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "url": "https://linkedin.com",
+    "description": "Professional networking",
+    "icon": "💼",
+    "color": "bg-blue-700"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "url": "https://reddit.com",
+    "description": "Discussion communities",
+    "icon": "🤖",
+    "color": "bg-orange-500"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "url": "https://discord.com",
+    "description": "Voice, video and text communication",
+    "icon": "💬",
+    "color": "bg-indigo-500"
+  }
+]

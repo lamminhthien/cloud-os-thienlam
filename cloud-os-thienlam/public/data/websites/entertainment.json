@@ -1,0 +1,50 @@
+[
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "url": "https://youtube.com",
+    "description": "Video sharing platform",
+    "icon": "▶️",
+    "color": "bg-red-600"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "url": "https://netflix.com",
+    "description": "Streaming movies and TV shows",
+    "icon": "🎬",
+    "color": "bg-red-700"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "url": "https://spotify.com",
+    "description": "Music streaming service",
+    "icon": "🎵",
+    "color": "bg-green-600"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "url": "https://twitch.tv",
+    "description": "Live streaming platform",
+    "icon": "📺",
+    "color": "bg-purple-600"
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "url": "https://store.steampowered.com",
+    "description": "PC gaming platform",
+    "icon": "🎮",
+    "color": "bg-blue-700"
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "url": "https://medium.com",
+    "description": "Read and write articles",
+    "icon": "📰",
+    "color": "bg-green-600"
+  }
+]
